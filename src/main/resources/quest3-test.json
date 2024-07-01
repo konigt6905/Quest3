@@ -1,0 +1,30 @@
+{
+  "tagHierarchies": [
+    {
+      "tag": "animals",
+      "subTags": ["mammals", "birds"]
+    },
+    {
+      "tag": "mammals",
+      "subTags": ["dogs", "cats"]
+    },
+    {
+      "tag": "birds",
+      "subTags": ["sparrows"]
+    }
+  ],
+  "documentTags": [
+    {
+      "uri": "doc1",
+      "tags": ["animals", "dogs"]
+    },
+    {
+      "uri": "doc2",
+      "tags": ["animals", "cats"]
+    },
+    {
+      "uri": "doc3",
+      "tags": ["animals", "sparrows"]
+    }
+  ]
+}
